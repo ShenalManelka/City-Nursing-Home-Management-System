@@ -1,0 +1,25 @@
+Name: Hiruni Wickrama Arachchi
+Email: hiruni@gmail.com
+Contact Number: 0702272274
+Category: Obstetrician/Gynecologist (OB/GYN)
+=======================
+Name: Morin Perera
+Email: morinperera@gmail.com
+Contact Number: 0702242247
+Category: General Physician
+=======================
+Name: Dimuthu Pramuditha
+Email: dumithuPra@gmail.com
+Contact Number: 0702242245
+Category: Pediatrician
+=======================
+Name: Lihan Amalsha
+Email: lihanAma@gmail.com
+Contact Number: 0702242246
+Category: Obstetrician/Gynecologist (OB/GYN)
+=======================
+Name: Nadula Kahadawa
+Email: nadula@gym.com 
+Contact Number: 056854195
+Category: Emergency Medicine Specialist
+=======================

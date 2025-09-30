@@ -1,0 +1,36 @@
+Name: Yasindu Thathsara
+Email:thathsarash@gmail.com
+Contact Number: 0724444447
+Password:yasindu@10
+Role: Cashier
+=======================
+Name: Nadeeka Sachinthana
+Email:nadeekas@gmail.com
+Contact Number: 0702242247
+Password:nadeeka@10
+Role: Cashier
+=======================
+Name: Ravindu Ranathunge
+Email:ravinduR@gmail.com
+Contact Number: 0702242247
+Password:ravindu@10
+Role: Cashier
+=======================
+Name: Dinithi Dedunu
+Email:dinithiDedu@gmail.com
+Contact Number: 0702242247
+Password:dinithi@10
+Role: Cashier
+=======================
+Name: Dimuthu Pramuditha
+Email:cashierDimuthu@gmail.com
+Contact Number: 0702242245
+Password:dimuthu@10
+Role: Cashier
+=======================
+Name: Akish Mithila
+Email:akishmithila@gmail.com
+Contact Number: 0702242446
+Password:akish@10
+Role: Cashier
+=======================

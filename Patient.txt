@@ -1,0 +1,42 @@
+Name: Yamindri Kumarasinghe
+Age: 22
+Contact Number: 0702242247
+Gender: Female
+Category: Maternity
+=======================
+Name: Shenal Manelka
+Age: 23
+Contact Number: 0702242247
+Gender: Male
+Category: Emergency
+=======================
+Name: Yasindu Thathsara
+Age: 22
+Contact Number: 0702242247
+Gender: Male
+Category: Emergency
+=======================
+Name: Sandew Rashmika
+Age: 23
+Contact Number: 0702242248
+Gender: Male
+Category: Pediatrics
+=======================
+Name: Akish Mithila
+Age: 21
+Contact Number: 0702242246
+Gender: Male
+Category: Maternity
+=======================
+Name: Sandali Avishka
+Age: 27
+Contact Number: 0702242246
+Gender: Female
+Category: Emergency
+=======================
+Name: Nadeeka Sachintha
+Age: 21
+Contact Number: 0702242248
+Gender: Male
+Category: Maternity
+=======================
