@@ -47,18 +47,13 @@ The application has three user roles: Manager, Cashier, and Staff. You can use t
 
 ### Manager
 
-| Email                  | Password         |
-| ---------------------- | ---------------- |
-| manager@example.com    | manager_password |
+| Email                         | Password         |
+| ----------------------        | ---------------- |
+| shenalmanelka774@gmail.com    | shenal@10        |
 
 ### Cashier
 
 | Email                  | Password         |
 | ---------------------- | ---------------- |
-| cashier@example.com    | cashier_password |
+| nadeekas@gmail.com     | nadeeka@10       |
 
-### Staff
-
-| Email                  | Password         |
-| ---------------------- | ---------------- |
-| staff@example.com      | staff_password   |
